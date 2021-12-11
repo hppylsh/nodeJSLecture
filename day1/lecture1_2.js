@@ -1,4 +1,8 @@
 
+// 1. 노드 시작하기
+// 호출스택과 이벤트 루프 
+// 이벤트기반, 싱글쓰레드, 논블러킹IO
+
 function first() {
     second();
     console.log('첫번째');

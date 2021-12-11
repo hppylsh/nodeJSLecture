@@ -1,3 +1,6 @@
+// 2.ES2018
+// 템플릿 문자열(백틱, `)
+
 const a = 'hello';
 const b = true;
 const c = 3;

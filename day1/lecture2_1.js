@@ -1,3 +1,5 @@
+
+// 2. ES2018
 //const 와 let
 
 if(true){
